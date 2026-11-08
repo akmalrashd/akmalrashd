@@ -17,13 +17,13 @@ I build full-stack web and mobile apps with **Laravel** and **Flutter**, integra
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/akmalrashd/carpoolhub-showcase"><img src="https://raw.githubusercontent.com/akmalrashd/carpoolhub-showcase/main/docs/cover.png" alt="CarpoolHub"></a>
-<b><a href="https://github.com/akmalrashd/carpoolhub-showcase">CarpoolHub</a></b> — Final Year Project<br>
+<b><a href="https://github.com/akmalrashd/carpoolhub-showcase">CarpoolHub</a></b>: Final Year Project<br>
 AI-assisted ride-sharing PWA: custom pickup routes, FPX payments, real-time chat and three Claude-powered features.<br>
 <sub>Laravel 12 · MySQL · Ably · ToyyibPay · Claude Haiku 4.5</sub>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/akmalrashd/gredku-showcase"><img src="https://raw.githubusercontent.com/akmalrashd/gredku-showcase/main/docs/cover.png" alt="GredKu"></a>
-<b><a href="https://github.com/akmalrashd/gredku-showcase">GredKu</a></b> — <a href="https://gredku.com">gredku.com</a><br>
+<b><a href="https://github.com/akmalrashd/gredku-showcase">GredKu</a></b>: live at <a href="https://gredku.com">gredku.com</a><br>
 Academic platform for Malaysian students: per-university GPA/CGPA rules, OCR result scanning, planner and community.<br>
 <sub>Laravel · Flutter · Riverpod · Mistral OCR · Cloudflare R2</sub>
 </td>
@@ -31,25 +31,43 @@ Academic platform for Malaysian students: per-university GPA/CGPA rules, OCR res
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/akmalrashd/mealpoint-showcase"><img src="https://raw.githubusercontent.com/akmalrashd/mealpoint-showcase/main/docs/cover.png" alt="MealPoint"></a>
-<b><a href="https://github.com/akmalrashd/mealpoint-showcase">MealPoint</a></b> — B2B SaaS for universities<br>
+<b><a href="https://github.com/akmalrashd/mealpoint-showcase">MealPoint</a></b>: B2B SaaS for universities<br>
 Campus e-wallet with a double-entry ledger, FIFO credit expiry and QR payments; 47 REST endpoints, 67 tests.<br>
 <sub>Laravel 12 · Flutter · MySQL 8 · Livewire 3</sub>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/akmalrashd/splitmate-showcase"><img src="https://raw.githubusercontent.com/akmalrashd/splitmate-showcase/main/docs/cover.png" alt="SplitMate"></a>
-<b><a href="https://github.com/akmalrashd/splitmate-showcase">SplitMate</a></b> — Hackathon X: Fintech Forward, Top 10<br>
-Type a bill in plain language; Claude tool use builds the split; settle by DuitNow QR.<br>
-<sub>Flutter · Firebase · GetX · Claude Haiku</sub>
+<a href="https://github.com/akmalrashd/lari-geng-lari-showcase"><img src="https://raw.githubusercontent.com/akmalrashd/lari-geng-lari-showcase/main/docs/cover.png" alt="Lari, Geng, Lari!"></a>
+<b><a href="https://github.com/akmalrashd/lari-geng-lari-showcase">Lari, Geng, Lari!</a></b>: UMPSA × HUAWEI GameCenter 2026<br>
+Bilingual 2D mobile runner about haze, scams and stress; pure-TS simulation with 600+ tests and CI-built APK.<br>
+<sub>Cocos Creator · TypeScript · vitest · GitHub Actions</sub>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/akmalrashd/hrms-qa-case-study"><img src="https://raw.githubusercontent.com/akmalrashd/hrms-qa-case-study/main/docs/cover.png" alt="HRMS QA"></a>
-<b><a href="https://github.com/akmalrashd/hrms-qa-case-study">HRMS QA Case Study</a></b><br>
-How I test a React + Laravel HR system: test design, defect reporting and regression.<br>
-<sub>Test case design · Defect lifecycle · Regression</sub>
+<a href="https://github.com/akmalrashd/cukrustorage-showcase"><img src="https://raw.githubusercontent.com/akmalrashd/cukrustorage-showcase/main/docs/cover.png" alt="CukruStorage"></a>
+<b><a href="https://github.com/akmalrashd/cukrustorage-showcase">CukruStorage</a></b>: live product<br>
+Student storage booking with QR tracking, return-slot booking, photo proof and an audit trail.<br>
+<sub>PHP 8 · MySQL · QR · cron</sub>
 </td>
 <td width="50%" valign="top">
+<a href="https://github.com/akmalrashd/dental-management-system-showcase"><img src="https://raw.githubusercontent.com/akmalrashd/dental-management-system-showcase/main/docs/cover.png" alt="Dental Record System"></a>
+<b><a href="https://github.com/akmalrashd/dental-management-system-showcase">Dental Record System</a></b>: developer + QA<br>
+Built the Manage Dentist module and tested it against ISO/IEC 25010: 22/22 test cases passed.<br>
+<sub>Laravel 12 · MySQL · IEEE 730 · RBAC</sub>
+</td>
+</tr>
+</table>
+
+## 📂 More projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [SplitMate](https://github.com/akmalrashd/splitmate-showcase) | 🏆 Hackathon X: Fintech Forward Top 10: AI bill splitting with Claude tool use, DuitNow QR | Flutter · Firebase · Claude |
+| [HRMS QA Case Study](https://github.com/akmalrashd/hrms-qa-case-study) | How I test a React + Laravel HR system for a client | QA · test design · regression |
+| [PRSDNT Worldwide](https://github.com/akmalrashd/prsdnt-worldwide-showcase) | Prerendered agency website with GSAP motion | React 19 · TypeScript · Vite · Tailwind |
+| [CukruDev Web & Portal](https://github.com/akmalrashd/cukrudev-website-showcase) | Company site, staff portal and payout tracking | Laravel · Blade · MySQL |
+| [SA Management System](https://github.com/akmalrashd/sa-management-system-showcase) | Team Flutter app: I built the co-curriculum claim module | Flutter · Firebase |
+| [MedAssist](https://github.com/akmalrashd/medassist-showcase) | Prototype: OCR on medicine labels → reminders | Flutter · FastAPI · OCR |
 
 ### 🏆 Highlights
 - **2nd place**, Data AI Experience (DAX) Challenge 2026 (Power BI)
@@ -57,10 +75,6 @@ How I test a React + Laravel HR system: test design, defect reporting and regres
 - **2nd place**, Competency-Based SE Workshop: Requirement to Testing
 - Dean's List × 6 semesters
 - Vice President, PEKA5 UMPSA (2024/25)
-
-</td>
-</tr>
-</table>
 
 ## 🛠️ Tech I use
 
