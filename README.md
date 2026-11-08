@@ -37,7 +37,7 @@ Campus e-wallet with a double-entry ledger, FIFO credit expiry and QR payments; 
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/akmalrashd/lari-geng-lari-showcase"><img src="https://raw.githubusercontent.com/akmalrashd/lari-geng-lari-showcase/main/docs/cover.png" alt="Lari, Geng, Lari!"></a>
-<b><a href="https://github.com/akmalrashd/lari-geng-lari-showcase">Lari, Geng, Lari!</a></b>: UMPSA × HUAWEI GameCenter 2026<br>
+<b><a href="https://github.com/akmalrashd/lari-geng-lari-showcase">Lari, Geng, Lari!</a></b>: UMPSA × HUAWEI GameCenter 2026 · <a href="https://larigenglari.prsdntworldwide.com">▶ play</a><br>
 Bilingual 2D mobile runner about haze, scams and stress; pure-TS simulation with 600+ tests and CI-built APK.<br>
 <sub>Cocos Creator · TypeScript · vitest · GitHub Actions</sub>
 </td>
