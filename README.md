@@ -62,6 +62,7 @@ Built the Manage Dentist module and tested it against ISO/IEC 25010: 22/22 test 
 
 | Project | What it is | Stack |
 |---|---|---|
+| [Pahang WaterWise](https://github.com/aisyhumairaz/pahang-waterwise-case-study) | 🥈 DAX Challenge 2026, 1st Runner-Up (national): non-revenue water dashboard and forecast for Pahang (team of 3; case study hosted by teammate) | Power BI · DAX · Python · scikit-learn |
 | [SplitMate](https://github.com/akmalrashd/splitmate-showcase) | 🏆 Hackathon X: Fintech Forward Top 10: AI bill splitting with Claude tool use, DuitNow QR | Flutter · Firebase · Claude |
 | [HRMS QA Case Study](https://github.com/akmalrashd/hrms-qa-case-study) | How I test a React + Laravel HR system for a client | QA · test design · regression |
 | [PRSDNT Worldwide](https://github.com/akmalrashd/prsdnt-worldwide-showcase) | Prerendered agency website with GSAP motion | React 19 · TypeScript · Vite · Tailwind |
@@ -70,7 +71,7 @@ Built the Manage Dentist module and tested it against ISO/IEC 25010: 22/22 test 
 | [MedAssist](https://github.com/akmalrashd/medassist-showcase) | Prototype: OCR on medicine labels → reminders | Flutter · FastAPI · OCR |
 
 ### 🏆 Highlights
-- **2nd place**, Data AI Experience (DAX) Challenge 2026 (Power BI)
+- **1st Runner-Up (2nd place)**, Data AI Experience (DAX) Challenge 2026, national level: [Pahang WaterWise](https://github.com/aisyhumairaz/pahang-waterwise-case-study)
 - **Top 10 finalist**, Hackathon X: Fintech Forward 2026
 - **2nd place**, Competency-Based SE Workshop: Requirement to Testing
 - Dean's List × 6 semesters
