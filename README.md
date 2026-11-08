@@ -17,7 +17,7 @@ I build full-stack web and mobile apps with **Laravel** and **Flutter**, integra
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/akmalrashd/carpoolhub-showcase"><img src="https://raw.githubusercontent.com/akmalrashd/carpoolhub-showcase/main/docs/cover.png" alt="CarpoolHub"></a>
-<b><a href="https://github.com/akmalrashd/carpoolhub-showcase">CarpoolHub</a></b>: Final Year Project<br>
+<b><a href="https://github.com/akmalrashd/carpoolhub-showcase">CarpoolHub</a></b>: Final Year Project · live at <a href="https://carpoolhub.prsdntworldwide.com">carpoolhub.prsdntworldwide.com</a><br>
 AI-assisted ride-sharing PWA: custom pickup routes, FPX payments, real-time chat and three Claude-powered features.<br>
 <sub>Laravel 12 · MySQL · Ably · ToyyibPay · Claude Haiku 4.5</sub>
 </td>
