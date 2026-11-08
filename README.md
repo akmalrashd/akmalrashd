@@ -31,7 +31,7 @@ Academic platform for Malaysian students: per-university GPA/CGPA rules, OCR res
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/akmalrashd/mealpoint-showcase"><img src="https://raw.githubusercontent.com/akmalrashd/mealpoint-showcase/main/docs/cover.png" alt="MealPoint"></a>
-<b><a href="https://github.com/akmalrashd/mealpoint-showcase">MealPoint</a></b>: B2B SaaS for universities<br>
+<b><a href="https://github.com/akmalrashd/mealpoint-showcase">MealPoint</a></b>: B2B SaaS for universities · <a href="https://mealpoint.cukrudev.com/login">staging</a><br>
 Campus e-wallet with a double-entry ledger, FIFO credit expiry and QR payments; 47 REST endpoints, 67 tests.<br>
 <sub>Laravel 12 · Flutter · MySQL 8 · Livewire 3</sub>
 </td>
@@ -45,7 +45,7 @@ Bilingual 2D mobile runner about haze, scams and stress; pure-TS simulation with
 <tr>
 <td width="50%" valign="top">
 <a href="https://github.com/akmalrashd/cukrustorage-showcase"><img src="https://raw.githubusercontent.com/akmalrashd/cukrustorage-showcase/main/docs/cover.png" alt="CukruStorage"></a>
-<b><a href="https://github.com/akmalrashd/cukrustorage-showcase">CukruStorage</a></b>: live product<br>
+<b><a href="https://github.com/akmalrashd/cukrustorage-showcase">CukruStorage</a></b>: live at <a href="https://storage.cukrudev.com/">storage.cukrudev.com</a><br>
 Student storage booking with QR tracking, return-slot booking, photo proof and an audit trail.<br>
 <sub>PHP 8 · MySQL · QR · cron</sub>
 </td>
